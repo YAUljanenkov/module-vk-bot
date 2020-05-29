@@ -1,0 +1,17 @@
+venv/
+
+private.py
+
+db.sqlite
+
+vk_config.v2.json
+
+bot.log*
+
+.DS_Store
+
+__pycache__/
+
+.idea/
+
+old/
